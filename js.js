@@ -117,5 +117,3 @@ function localdensil(silinenler) {
     });
     localStorage.setItem("localliste", JSON.stringify(listedizisi)); 
 }
-
-//LOCAL STORAGE İ PEK ANLAMADIM AMA PRATİK YAPTIKCA GELİŞİR//
